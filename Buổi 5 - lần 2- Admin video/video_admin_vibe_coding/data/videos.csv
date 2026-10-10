@@ -1,0 +1,19 @@
+﻿id,title,description,thumbnail_url,video_url,category_id,views,file_size_bytes,duration_seconds,status,created_at,updated_at,created_by
+V001,Giới thiệu AI và ứng dụng,Mô tả của Giới thiệu AI và ứng dụng,./assets/images/placeholder.svg,,C001,3022,464519168,1169,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V002,Hướng dẫn sử dụng Dashboard,Mô tả của Hướng dẫn sử dụng Dashboard,./assets/images/placeholder.svg,,C002,3593,264241152,880,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V003,10 xu hướng công nghệ 2026,Mô tả của 10 xu hướng công nghệ 2026,./assets/images/placeholder.svg,,C003,3819,825229312,1688,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V004,Cách dựng video hấp dẫn,Mô tả của Cách dựng video hấp dẫn,./assets/images/placeholder.svg,,C004,4071,1025507328,259,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V005,Khám phá rạp chiếu phim,Mô tả của Khám phá rạp chiếu phim,./assets/images/placeholder.svg,,C001,4640,832569344,1049,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V006,Mẹo sử dụng JavaScript,Mô tả của Mẹo sử dụng JavaScript,./assets/images/placeholder.svg,,C002,5101,776994816,559,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V007,Giới thiệu hệ thống âm thanh,Mô tả của Giới thiệu hệ thống âm thanh,./assets/images/placeholder.svg,,C003,5180,744488960,1109,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V008,Thiết kế giao diện website,Mô tả của Thiết kế giao diện website,./assets/images/placeholder.svg,,C004,5933,219152384,941,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V009,Hậu trường dự án mới,Mô tả của Hậu trường dự án mới,./assets/images/placeholder.svg,,C001,6677,244318208,641,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V010,Công nghệ trình chiếu Laser,Mô tả của Công nghệ trình chiếu Laser,./assets/images/placeholder.svg,,C002,7052,869269504,1609,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V011,Phân tích dữ liệu cho người mới,Mô tả của Phân tích dữ liệu cho người mới,./assets/images/placeholder.svg,,C003,7365,469762048,691,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V012,Thực hành HTML và CSS,Mô tả của Thực hành HTML và CSS,./assets/images/placeholder.svg,,C004,7982,891289600,416,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V013,Bản tin công nghệ tháng 10,Mô tả của Bản tin công nghệ tháng 10,./assets/images/placeholder.svg,,C001,7671,793772032,1545,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V014,Tối ưu SEO cho video,Mô tả của Tối ưu SEO cho video,./assets/images/placeholder.svg,,C002,8502,262144000,899,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V015,Tổng quan bảo mật web,Mô tả của Tổng quan bảo mật web,./assets/images/placeholder.svg,,C003,8531,218103808,1474,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V016,Tự động hóa quy trình,Mô tả của Tự động hóa quy trình,./assets/images/placeholder.svg,,C004,8834,392167424,171,PUBLISHED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V017,Chọn máy quay phù hợp,Mô tả của Chọn máy quay phù hợp,./assets/images/placeholder.svg,,C001,9510,763363328,856,DRAFT,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
+V018,Video hướng dẫn quản trị,Mô tả của Video hướng dẫn quản trị,./assets/images/placeholder.svg,,C002,10152,293601280,1426,ARCHIVED,2026-01-01T08:00:00+07:00,2026-10-10T08:00:00+07:00,U001
