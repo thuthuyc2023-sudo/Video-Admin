@@ -1,3 +1,0 @@
-﻿id,username,email,password,role,status,created_at
-U001,admin1,admin1@gmail.com,123456,ADMIN,ACTIVE,2026-10-01T09:00:00+07:00
-U002,user1,user1@gmail.com,123456,USER,ACTIVE,2026-10-01T10:00:00+07:00
